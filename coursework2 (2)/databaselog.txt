@@ -1,0 +1,210 @@
+
+
+	 + 
+	 size: 2
+	 member name: a
+
+
+
+	 + 
+	 size: 3
+	 member name: c
+
+
+
+	 - 
+	 size: 3
+	 member name: a
+
+
+
+	 - 
+	 size: 3
+	 member name: b
+
+
+
+	 + 
+	 size: 4
+	 member name: b
+
+
+
+	 + 
+	 size: 5
+	 member name: e
+
+
+
+	 - 
+	 size: 5
+	 member name: c
+
+
+
+	 + 
+	 size: 2
+	 member name: a
+
+
+
+	 + 
+	 size: 3
+	 member name: c
+
+
+
+	 - 
+	 size: 3
+	 member name: a
+
+
+
+	 - 
+	 size: 3
+	 member name: b
+
+
+
+	 + 
+	 size: 4
+	 member name: b
+
+
+
+	 + 
+	 size: 5
+	 member name: e
+
+
+
+	 - 
+	 size: 5
+	 member name: c
+
+
+
+	 + 
+	 size: 2
+	 member name: a
+
+
+
+	 + 
+	 size: 3
+	 member name: c
+
+
+
+	 - 
+	 size: 3
+	 member name: a
+
+
+
+	 - 
+	 size: 3
+	 member name: b
+
+
+
+	 + 
+	 size: 4
+	 member name: b
+
+
+
+	 + 
+	 size: 5
+	 member name: e
+
+
+
+	 - 
+	 size: 5
+	 member name: c
+
+
+
+	 + 
+	 size: 2
+	 member name: a
+
+
+
+	 + 
+	 size: 3
+	 member name: c
+
+
+
+	 - 
+	 size: 3
+	 member name: a
+
+
+
+	 - 
+	 size: 3
+	 member name: b
+
+
+
+	 + 
+	 size: 4
+	 member name: b
+
+
+
+	 + 
+	 size: 5
+	 member name: e
+
+
+
+	 - 
+	 size: 5
+	 member name: c
+
+
+
+	 + 
+	 size: 2
+	 member name: a
+
+
+
+	 + 
+	 size: 3
+	 member name: c
+
+
+
+	 - 
+	 size: 3
+	 member name: a
+
+
+
+	 - 
+	 size: 3
+	 member name: b
+
+
+
+	 + 
+	 size: 4
+	 member name: b
+
+
+
+	 + 
+	 size: 5
+	 member name: e
+
+
+
+	 - 
+	 size: 5
+	 member name: c
+
